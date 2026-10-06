@@ -1,6 +1,6 @@
 # 基于HarmonyOS的日程计划清单APP的设计与实现
 本应用是基于HarmonyOS 12版本以上进行开发(模拟器)，后端使用SpringBoot+Mybatis Plus框架，数据库采用Mysql数据库；集成开发环境：Intellij IDEA,DevEco Studio<br>
-这个项目是我的第一个关于鸿蒙的项目。基本都是跟着<a href="https://developer.huawei.com/consumer/cn/doc/harmonyos-guides/application-dev-guide" rel="nofollow">应用开发文档</a>学了之后敲的，所以功能会比较少。<br>
+本项目是前期尝试鸿蒙的项目。基本都是跟着<a href="https://developer.huawei.com/consumer/cn/doc/harmonyos-guides/application-dev-guide" rel="nofollow">应用开发文档</a>学了之后敲的，所以功能会比较少。<br>
 首先前端运行环境需要先安装<a href="https://developer.huawei.com/consumer/cn/deveco-studio/" rel="nofollow">DevEco Studio</a>。具体安装教程请参考网上教程。<br>
 后端需要安装<a href="https://www.jetbrains.com/zh-cn/idea/download/?section=windows" rel="nofollow">IntelliJ IDEA</a>。数据库用到的是<a href="https://www.navicat.com.cn/" rel="nofollow">Navicat</a>进行管理。<br>
 其中前端的日历视图引用的是<a href="https://ohpm.openharmony.cn/#/cn/home" rel="nofollow">OpenHarmony三方库中心仓</a>里“尘封Dè眷恋”大佬的<a href="https://ohpm.openharmony.cn/#/cn/detail/cjcalendar" rel="nofollow">cjcalendar</a>，在此非常感谢。具体的日历环境安装请访问链接进行安装。<br>
